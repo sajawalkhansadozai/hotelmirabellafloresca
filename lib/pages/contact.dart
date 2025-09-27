@@ -38,7 +38,7 @@ const List<_ContactCardData> _kContactCards = [
     icon: Icons.call_rounded,
     title: 'Phone',
     lines: [
-      'Not listed in brochure',
+      '0330-0492034',
       // TODO: Replace with your real numbers, e.g. +92 … / +1 …
     ],
   ),
@@ -46,7 +46,7 @@ const List<_ContactCardData> _kContactCards = [
     icon: Icons.email_rounded,
     title: 'Email',
     lines: [
-      'Not listed in brochure',
+      'info@hotelmirabellafloresca.com',
       // TODO: Replace with your real emails, e.g. reservations@… / events@…
     ],
   ),
